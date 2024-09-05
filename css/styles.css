@@ -205,3 +205,117 @@ body {
   .favoritesitem {
   }
   /* #endregion favorites */
+  /* #region customer reviews */
+
+  /* #endregion customer reviews */
+  /* #region footer */
+  .footer {
+    padding-top: 100px;
+    padding-bottom: 100px;
+  }
+  .footer-coutainer {
+    
+  }
+  .wrap-form {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 80px;
+  }
+  .footer-wrap {
+    display: flex;
+    align-items: center;
+  }
+  .footer-logo {
+    margin-right: 143px;
+  }
+  .footer-list {
+    display: flex;
+    gap: 28px;
+  }
+  .footer-item {
+
+font-weight: 400;
+font-size: 14px;
+color: #2c2c2c;
+  }
+  .footer-link {
+  }
+  .email-wrap {
+
+  }
+  .form-text {
+font-weight: 500;
+font-size: 14px;
+line-height: 1.5;
+color: #2c2c2c;
+margin-bottom: 12px;
+  }
+  .email-form {
+    display: flex;
+    gap: 13px;
+    align-items: center;
+ 
+  }
+  .footer-input {
+    border: 0.85px solid #ffe550;
+border-radius: 30px;
+padding-left: 12px;
+width: 279px;
+height: 42px;
+background: #fefefe;
+outline: transparent;
+font-family: "Roboto", sans-serif;
+font-weight: 400;
+font-size: 12px;
+line-height: 1.5;
+color: #505050;
+margin-bottom: 12px;
+  }
+  .email-label {
+    
+  }
+  .footer-button {
+    border: 0.85px solid #7eb101;
+border-radius: 30px;
+width: 103px;
+height: 42px;
+background: #fff;
+font-weight: 500;
+font-size: 13px;
+line-height: 1.5;
+color: #2c2c2c;
+cursor: pointer;
+
+
+  }
+  .email-wrap-text {
+font-size: 12px;
+color: #2c2c2c;
+  }
+  .private-policy {
+    text-decoration: underline;
+color: #7eb101;
+  }
+  .footer-coutainer-last {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+  }
+  .second-list {
+    display: flex;
+    gap: 20px;
+
+  }
+  .second-item-link {
+    font-size: 12px;
+    text-decoration: underline;
+    color: #7eb101;
+    
+  }
+  .footer-text {
+    font-size: 12px;
+  }
+  
+  /* #endregion footer */
